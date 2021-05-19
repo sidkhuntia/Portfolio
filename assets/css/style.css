@@ -784,15 +784,15 @@ a:hover {
 
 .about-mf .about-img {
   margin-bottom: 2rem;
-  padding-left: 120px;
+  padding-left: 40px;
   
 }
 
-.about-mf .about-img img {
+/*.about-mf .about-img img {
   margin-left: 10px;
-}
+}*/
 .about-info{
-  padding-left: 80px;
+  padding-left: 35px;
   padding-top: 30px;
   font-size: 1.2rem;
 }
